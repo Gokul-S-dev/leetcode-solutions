@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
+| [2652-sum-multiples](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
