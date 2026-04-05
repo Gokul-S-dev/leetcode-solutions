@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
