@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -46,4 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
