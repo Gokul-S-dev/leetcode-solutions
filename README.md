@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
