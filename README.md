@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
