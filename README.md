@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
