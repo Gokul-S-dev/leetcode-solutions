@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
@@ -96,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
