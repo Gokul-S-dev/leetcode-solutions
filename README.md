@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 ## Linked List
 |  |
