@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
