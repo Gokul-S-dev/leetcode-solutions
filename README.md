@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
