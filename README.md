@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
