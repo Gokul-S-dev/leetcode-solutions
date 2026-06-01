@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
