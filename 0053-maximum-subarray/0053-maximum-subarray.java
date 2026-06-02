@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<n;i++){
             sum+=nums[i];
             if(sum>maxi){
-                maxi= Math.max(sum,maxi);
+                maxi= sum>maxi? sum : maxi;
             }
             if(sum<0){
                 sum =0 ;
