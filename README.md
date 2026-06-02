@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0338-counting-bits) |
