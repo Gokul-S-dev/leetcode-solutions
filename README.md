@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
