@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Linked List
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
