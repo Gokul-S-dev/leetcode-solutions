@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0202-happy-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
