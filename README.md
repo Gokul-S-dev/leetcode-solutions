@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0067-add-binary) |
@@ -352,4 +354,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
