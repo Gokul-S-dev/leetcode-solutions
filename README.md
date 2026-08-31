@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Breadth-First Search
