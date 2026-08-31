@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Breadth-First Search
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
