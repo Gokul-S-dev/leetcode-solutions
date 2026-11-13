@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
