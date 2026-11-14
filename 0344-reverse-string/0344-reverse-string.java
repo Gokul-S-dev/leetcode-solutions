@@ -1,14 +1,14 @@
 class Solution {
     public void reverseString(char[] s) {
+        int low=0;
+        int high = s.length-1;
+        while(low<=high){
+            char temp = s[low];
+            s[low]=s[high];
+            s[high]=temp;
 
-        int l=0;
-        int r= s.length-1;
-        while(l<r){
-            char temp =s[l];
-            s[l]=s[r];
-            s[r]=temp;
-            l++;
-            r--;
+            low++;
+            high--;
         }
         
     }
