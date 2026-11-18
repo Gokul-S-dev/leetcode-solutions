@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Gokul-S-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Breadth-First Search
 |  |
 | ------- |
